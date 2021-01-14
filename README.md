@@ -4,3 +4,13 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=theyanchau&langs_count=8)](https://github.com/theyanchau/github-readme-stats)
 
 [![Theysnchau's github stats](https://github-readme-stats.vercel.app/api?username=theyanchau)](https://github.com/theyanchau/github-readme-stats)
+
+You can find me on [![LinkedIn][2.2]][2].
+
+<!-- Icons -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
+<!-- Links to your social media accounts -->
+[2]: https://www.linkedin.com/in/theyanchau/
