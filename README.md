@@ -10,6 +10,7 @@ My name is Yan Chau
 
 ## Personal Projects
 [Web project - Studentvoice](https://studentvoice.op.ac.nz)
+
 [Android App - TravelMate](https://play.google.com/store/apps/details?id=com.op.travelquizapp)
 
 ## Overviews about my github
