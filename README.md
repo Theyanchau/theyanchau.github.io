@@ -7,6 +7,7 @@ My name is Yan Chau
 * Currently living in New Zealand
 * Graduated Bachelor of Information Technology in 2020
 * New toy for 2021: Raspberry Pi
+* Just love Kaws design
 
 ## Personal Projects
 [Web project - Studentvoice](https://studentvoice.op.ac.nz)
